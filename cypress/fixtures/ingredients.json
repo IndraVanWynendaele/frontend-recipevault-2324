@@ -1,0 +1,9 @@
+{
+  "items": [
+    {
+      "ingredientId": 1,
+      "ingredientDescription": "Pasta",
+      "recipeId": 1
+    }
+  ]
+}

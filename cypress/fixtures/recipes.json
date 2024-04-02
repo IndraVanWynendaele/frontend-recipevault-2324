@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "recipeId": 1,
+      "recipeName": "Stuffed Bell Peppers with Minced Beef and Veggies",
+      "recipeDescription": "Savor the delicious combination of bell peppers filled with seasoned minced beef and colorful veggies.",
+      "recipePictureUrl": "https://i.pinimg.com/564x/bf/fa/db/bffadb17fd2e222ab656026e3dd7c51f.jpg",
+      "recipeDuration": 1,
+      "recipeServings": 1,
+      "recipeCategory": 1,
+      "recipeDifficulty": 1,
+      "recipeInstructions": "recipe one instructions",
+      "recipeUserId": 2,
+      "category": {
+        "id": 1,
+        "name": "Breakfast"
+      },
+      "difficulty": {
+        "id": 1,
+        "name": "Easy"
+      },
+      "user": {
+        "userId": 2,
+        "username": "test2",
+        "email": "test@gmail.com"
+      }
+    }
+  ]
+}

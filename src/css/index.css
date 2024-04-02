@@ -1,0 +1,37 @@
+/* global */
+.page-width {
+  margin: auto;
+  max-width: 1050px;
+}
+
+/* search input */
+.search {
+  padding: 4rem;
+}
+
+.search-field {
+  width: 100%;
+}
+
+.text-center {
+  text-align: center;
+}
+
+/* recipe + ingredient form */
+.form-width {
+  max-width: 500px;
+  margin: auto;
+}
+
+/* recipe preview + user recipe preview */
+.recipe-card {
+  height: 100%;
+}
+
+.recipe-list-image {
+  width: 200px;
+  max-height: auto;
+  object-fit: cover;
+}
+
+
